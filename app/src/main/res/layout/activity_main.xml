@@ -84,10 +84,27 @@
         android:text="Pesan" />
 
     <TextView
-        android:id="@+id/textViewHasil"
+        android:id="@+id/textViewNama"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:text="Jawaban" />
+        android:text="Nama" />
+
+    <TextView
+        android:id="@+id/textViewPc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Paket Class" />
+
+    <TextView
+        android:id="@+id/textViewAt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arah tujuan" />
+
+    <TextView
+        android:id="@+id/textViewPr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="peralatan" />
 
 </LinearLayout>
